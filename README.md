@@ -1,5 +1,5 @@
 # docs
-What is VodApp? - deploy your app from github and just a look
+What is VodApp? - just deploy your app from github repository and have a look :)
 
 is a cloud platform that lets companies build, deliver, monitor and scale apps
 
