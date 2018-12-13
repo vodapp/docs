@@ -12,3 +12,21 @@ https://nanobox.io/what-is-nanobox
 
 https://www.youtube.com/watch?v=rFal_RgKkZg
 
+## TODO
+
+### how to deploy on vodapp
+http://htmlpreview.github.io/
+
+url from github is enough
+
+deploy for 1 Minute
+deploy one Time for registered user
+
+Demo for non registered
+only verified, popular github users and repositories
+
+http://deploy.vodapp.com/?url-of-github-repo
+deploy over in input
+deploy on RPI
+
+
